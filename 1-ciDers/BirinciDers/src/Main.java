@@ -27,4 +27,8 @@ public class Main {
         //println bize ekrana capa vermeyimiz ucun lazimdir.
         System.out.println("hello world");
     }
+
+
+    //jre- Java Runtime Enviroment: programin iwe dusmesi ucun lazimdir,yazdigimiz kodlarin neticesin gormemiz ucun,yeni proyekti run etmek ucunde jre lazimdir
+    //jdk- Java Development Kit: yazdigimiz kodun compiler olunmasi ucun lazimdir,programci kodlari compiler edib,sonra iwe salmasi ucun lazimdir.
 }
